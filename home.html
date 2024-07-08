@@ -16,6 +16,7 @@
             background-color: #f4f4f4;
             padding: 15px;
             box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+            position: relative;
         }
         .sidebar h2 {
             text-align: left;
@@ -60,9 +61,26 @@
             max-width: 600px;
             height: auto;
         }
+        .back-button {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: turquoise;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .back-button:hover {
+            background-color: darkturquoise;
+        }
     </style>
 </head>
 <body>
+    <a href="https://yonigol18.github.io/GolTV" class="back-button">Back</a>
     <div class="sidebar">
         <h2>Test Page 1</h2>
         <ul>
