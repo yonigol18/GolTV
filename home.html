@@ -6,10 +6,14 @@
     <title>Test Page 1</title>
     <style>
         body {
+            background-color: white;
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+            text-align: center;
+            margin-top: 10%;
             display: flex;
+            justify-content: center; /* Center aligns content horizontally */
+            align-items: flex-start; /* Aligns content to the top */
+            min-height: 100vh; /* Ensures full viewport height */
         }
         .sidebar {
             width: 200px;
@@ -40,6 +44,8 @@
         .content {
             flex: 1;
             padding: 20px;
+            text-align: left; /* Ensures content text alignment */
+            position: relative; /* Added for positioning the back button */
         }
         h1 {
             color: #333;
@@ -60,9 +66,26 @@
             max-width: 600px;
             height: auto;
         }
+        .back-button {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: turquoise;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .back-button:hover {
+            background-color: darkturquoise;
+        }
     </style>
 </head>
 <body>
+    <a href="#" class="back-button">Back</a>
     <div class="sidebar">
         <h2>Test Page 1</h2>
         <ul>
