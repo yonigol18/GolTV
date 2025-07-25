@@ -9,6 +9,13 @@
          "summary":"Travel TV Live",
          "video_src":"https://streamer103.neterra.tv/travel/live.m3u8",
          "image_src":"https://bx-tv.com/wp-content/uploads/2021/12/travel-tv.jpg"
-   }
+   },
+      {
+         "id":"travel_xp",
+         "title":"Travel XP",
+         "summary":"Travel XP Live",
+         "video_src":"https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+         "image_src":"https://cdn.broadbandtvnews.com/wp-content/uploads/2020/05/14111822/Travelxp-logo_4K-HDR.jpg"
+   }      
    ]
 }
