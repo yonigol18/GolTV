@@ -1,26 +1,26 @@
 {
    "author":"Juan José",
-   "id":"GolTV_Sports",
-   "json_title":"Sports",
+   "id":"GolTV_vod",
+   "json_title":"VOD Screen Title",
    "entries":[
       {
-         "id":"vod_1",
+         "id":"show_1",
          "title":"Show 1",
          "summary":"Show tile 1, leading to another JSON with episodes",
-         "feed_src":"https://www."
+         "feed_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/feeds/vod/vod_1.json"
    },
            {
-         "id":"vod_2",
+         "id":"movie_1",
          "title":"Movie 1",
          "summary":"Movie Tile Playing the Movie Directly",
          "video_src":"https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
          "image_src":"https://i.ytimg.com/vi/aqz-KE-bpKQ/maxresdefault.jpg"
    },
            {
-         "id":"vod_t3",
+         "id":"show_2",
          "title":"Show_2",
          "summary":"Show tile 2, leading to another JSON with episodes",
-         "feed_src":"https://www."
+         "feed_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/feeds/vod/vod_2.json"
    }
    ]
 }
