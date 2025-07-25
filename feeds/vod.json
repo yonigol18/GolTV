@@ -8,6 +8,7 @@
          "title":"Show 1",
          "summary":"Show tile 1, leading to another JSON with episodes",
          "feed_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/feeds/vod/vod_1.json"
+         "image_src":"https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/3f8qf3WXgt44E2jMQc2r1S/37e152b6892a81478311074f623a49c8/tvnz-1.png.37e152b6892a81478311074f623a49c8.jpg?width=1200&height=630"
    },
            {
          "id":"movie_1",
@@ -21,6 +22,7 @@
          "title":"Show_2",
          "summary":"Show tile 2, leading to another JSON with episodes",
          "feed_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/feeds/vod/vod_2.json"
+         "image_src":"https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/1EE43PMNpAUShErqoTWd0N/01eae56337c20e33b495bc2f9ce437df/tvnz-2.png.01eae56337c20e33b495bc2f9ce437df.jpg?width=1200&height=630"
    }
    ]
 }
