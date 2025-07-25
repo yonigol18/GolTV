@@ -1,0 +1,35 @@
+{
+   "author":"Juan José",
+   "id":"GolTV_News",
+   "json_title":"News",
+   "entries":[
+      {
+         "id":"i24",
+         "title":"i24 News",
+         "summary":"i24 News - Hebrew",
+         "video_src":"https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8",
+         "image_src":"https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6497efb1-94b8-4dbd-9351-ad2f79269e2f/610f1569-28ab-46b5-b6e0-2f715bad06fc/1280x720/match/image.jpg"
+      },
+      {
+         "id":"cnn",
+         "title":"CNN",
+         "summary":"CNN News",
+         "video_src":"https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+         "image_src":"https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg"
+      },
+      {
+         "id":"sky",
+         "title":"Sky News Australia",
+         "summary":"Sky News Ausralia",
+         "video_src":"http://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+         "image_src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5hkUge307E3ZjSKVkY4CxJZgwphRXFBY5kYQg3COh8A-kzDEJMfms4JsfNlpCshe3pI&usqp=CAU"
+      },
+      {
+         "id":"bloomberg",
+         "title":"Bloomberg News",
+         "summary":"Bloomberg News Live",
+         "video_src":"https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8",
+         "image_src":"https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg"
+   },
+   ]
+}
