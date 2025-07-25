@@ -19,7 +19,7 @@
    },
            {
          "id":"show_2",
-         "title":"Show_2",
+         "title":"Show 2",
          "summary":"Show tile 2, leading to another JSON with episodes",
          "feed_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/feeds/vod/vod_2.json",
          "image_src":"https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/1EE43PMNpAUShErqoTWd0N/01eae56337c20e33b495bc2f9ce437df/tvnz-2.png.01eae56337c20e33b495bc2f9ce437df.jpg?width=1200&height=630"
