@@ -1,0 +1,49 @@
+{
+   "author":"Juan José",
+   "id":"vod_1",
+   "json_title":"VOD_1_Title",
+   "entries":[
+      {
+         "id":"vod_1_1",
+         "title":"VOD 1 - Episode 01",
+         "summary":"VOD 01 Summary",
+         "video_src":"https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8",
+         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+      },
+      {
+         "id":"vod_1_2",
+         "title":"VOD 1 - Episode 02",
+         "summary":"VOD 02 Summary",
+         "video_src":"https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel12.il.m3u8",
+         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+      },
+      {
+         "id":"vod_1_3",
+         "title":"VOD 1 - Episode 03",
+         "summary":"VOD 03 Summary",
+         "video_src":"https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8",
+         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+      },
+      {
+         "id":"vod_1_4",
+         "title":"VOD 04 Summary",
+         "summary":"VOD 04 Summary",
+         "video_src":"https://stream-05.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJ_GdHAakyPDol0e9i4Tuwn4VnHViYPrJUKIYXtUyMYS)/dm/3/x7ymw7f/s/live-3.m3u8",
+         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+      },
+      {
+         "id":"vod_1_5",
+         "title":"VOD 1 - Episode 05",
+         "summary":"VOD 05 Summary",
+         "video_src":"http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u",
+         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+      },
+      {
+         "id":"vod_1_6",
+         "title":"VOD 1 - Episode 06",
+         "summary":"VOD 06 Summary",
+         "video_src":"https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+      }
+   ]
+}
