@@ -5,21 +5,21 @@
    "entries":[
       {
          "id":"reshet_bet",
-         "title":"Reshet_Bet",
+         "title":"רשת ב",
          "summary":"Israel Reshet Bet",
          "video_src":"https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8",
          "image_src":"https://www.kan.org.il/media/ekhae5he/share-image_1200x630_kan_bet.jpg"
       },
       {
          "id":"reshet_gimel",
-         "title":"Kan Gimel",
+         "title":"רשת ג",
          "summary":"Israel Reshet Gimel",
          "video_src":"https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8",
          "image_src":"https://www.kan.org.il/media/bkin1fxt/share-image_1200x630_kan_gimel.jpg"
       },
       {
          "id":"kan_88",
-         "title":"Kan 88",
+         "title":"88 כאן",
          "summary":"Israel Kan 88",
          "video_src":"https://kan88.media.kan.org.il/hls/live/2024812/2024812/kan88_mp3/chunklist.m3u8",
          "image_src":"https://www.kan.org.il/media/sckjq2jl/share-image_1200x630_kan_88.jpg"
