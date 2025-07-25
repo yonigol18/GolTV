@@ -1,0 +1,26 @@
+{
+   "author":"Juan José",
+   "id":"GolTV_Sports",
+   "json_title":"Sports",
+   "entries":[
+      {
+         "id":"vod_1",
+         "title":"Show 1",
+         "summary":"Show tile 1, leading to another JSON with episodes",
+         "feed_src":"https://www."
+   },
+           {
+         "id":"vod_2",
+         "title":"Movie 1",
+         "summary":"Movie Tile Playing the Movie Directly",
+         "video_src":"https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+         "image_src":"https://i.ytimg.com/vi/aqz-KE-bpKQ/maxresdefault.jpg"
+   },
+           {
+         "id":"vod_t3",
+         "title":"Show_2",
+         "summary":"Show tile 2, leading to another JSON with episodes",
+         "feed_src":"https://www."
+   }
+   ]
+}
