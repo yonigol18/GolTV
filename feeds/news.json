@@ -22,7 +22,7 @@
          "title":"Sky News Australia",
          "summary":"Sky News Ausralia",
          "video_src":"http://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
-         "image_src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5hkUge307E3ZjSKVkY4CxJZgwphRXFBY5kYQg3COh8A-kzDEJMfms4JsfNlpCshe3pI&usqp=CAU"
+         "image_src":"https://content.api.news/v3/images/bin/5b4fdbc3df286aa953bcc0b3a0df5c38"
       },
       {
          "id":"bloomberg",
