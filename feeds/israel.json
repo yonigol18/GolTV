@@ -7,21 +7,21 @@
          "id":"Kan11",
          "title":"11 כאן",
          "summary":"Israel 11",
-         "video_src":"https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8",
+         "video_src":"https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
          "image_src":"https://media3.reshet.tv/image/upload/t_main_large/v1490694764/%D7%AA%D7%90%D7%92%D7%99%D7%93-%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8_sz9mzm.jpg"
       },
       {
          "id":"channel12",
          "title":"12 ערוץ",
          "summary":"Israel 12",
-         "video_src":"https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel12.il.m3u8",
+         "video_src":"https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8",
          "image_src":"https://img.mako.co.il/2020/03/24/rrrrr_i.jpg"
       },
       {
          "id":"channel13",
          "title":"13 ערוץ",
          "summary":"Israel 13",
-         "video_src":"https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8",
+         "video_src":"https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8",
          "image_src":"https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d1b1e11e36248d4a164b2ce4d660e5e/version/42/width/320/height/180/quality/70"
       },
       {
@@ -37,6 +37,13 @@
          "summary":"Israel 12 News",
          "video_src":"http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u",
          "image_src":"https://img.mako.co.il/2021/02/16/I_txt-v2.jpg"
+      },
+     {
+         "id":"i24_news",
+         "title":"i24 News",
+         "summary":"i24 News",
+         "video_src":"https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1767895200~exp=1767898800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=59be9c55159d8b6167ec5d5a7528df6b7bf144a4d8fe71dd486a93e5032f20a2",
+         "image_src":"https://i.ytimg.com/vi/ga0Rrn-t8_s/hq720.jpg"
       },
       {
          "id":"arutz_ha_nofesh",
