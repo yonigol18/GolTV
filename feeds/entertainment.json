@@ -18,7 +18,14 @@
          "image_src":"hhttps://i.ytimg.com/vi/lDk0mBtiqx4/maxresdefault.jpg"
    },
    {
-         "id":"pbs",
+         "id":"pbskids",
+         "title":"PBS Kids",
+         "summary":"PBS Kids",
+         "video_src":"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+         "image_src":"https://npr.brightspotcdn.com/legacy/wp-content/uploads/2015/05/PBS-kids-post.jpg"
+   },
+   {
+         "id":"pbsmaryland",
          "title":"PBS Maryland",
          "summary":"PBS Baltimore, Maryland",
          "video_src":"https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
@@ -42,7 +49,7 @@
          "id":"outdoor",
          "title":"Outdoor Channel",
          "summary":"Outdoor Channel",
-         "video_src":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8,
+         "video_src":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
          "image_src":"https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/57409e50258033.58cb840c2bbbb.jpg"
    },   
    ]
