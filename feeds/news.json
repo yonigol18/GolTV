@@ -25,6 +25,13 @@
          "image_src":"https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg"
       },
       {
+         "id":"abc_news",
+         "title":"ABC News",
+         "summary":"ABC News",
+         "video_src":"https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8",
+         "image_src":"https://variety.com/wp-content/uploads/2014/08/abc-news-logo.jpg"
+      },
+      {
          "id":"sky",
          "title":"Sky News Australia",
          "summary":"Sky News Ausralia",
