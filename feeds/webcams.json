@@ -11,11 +11,29 @@
          "image_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1200px-New_york_times_square-terabass.jpg"
    },
       {
-         "id":"hilton_beach_1",
-         "title":"Hilton Beach",
-         "summary":"Hilton Beach - TLV",
-         "video_src":"https://s122.ipcamlive.com/streams_storage/7a6akgfddt2vy98wh/stream.m3u8",
-         "image_src":"https://i0.wp.com/www.touristisrael.com/wp-content/uploads/2018/11/hilton_beach_tel_aviv_1_40.jpg"
+         "id":"times_square_2",
+         "title":"Times Square",
+         "summary":"New York - Times Square 2",
+         "video_src":"      {
+         "id":"times_square_1",
+         "title":"Times Square",
+         "summary":"New York - Times Square 1",
+         "video_src":"https://videos-3.earthcam.com/fecnetwork/15559.flv/chunklist_w1916513927.m3u8?t=Nbu5f1MJ3EWEhKKOIxJOxzJjixQVFkERLIoq26bvimvHjvo0JBOUODrgOtJyTJH0&td=202604070946",
+         "image_src":"https://www.webcamhopper.com/thumb/4750.jpg"
+   },
+      {
+         "id":"rio_1",
+         "title":"Copacabana",
+         "summary":"Copacabana, Rio de Janeiro",
+         "video_src":"https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2022/04/19/1300.mp4/chunklist_w1463833075.m3u8",
+         "image_src":"https://www.earthcam.com/hof/brazil/riodejaneiro/1760449938591_73_thumb.jpg"
+   },
+      {
+         "id":"gordon_beach_1",
+         "title":"Gordon Beach",
+         "summary":"Gordon Beach - TLV",
+         "video_src":"https://edge01.balticlivecam.com/blc/Israel1/tracks-v1/mono.ts.m3u8?token=ebbec2847400a6bb66749332f1c0ba38%3A1775570874248,
+         "image_src":"https://www.webcamtaxi.com/images/template/thumbs/israel-telaviv01.jpg"
    }
    ]
 }
