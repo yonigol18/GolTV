@@ -32,6 +32,13 @@
          "image_src":"https://variety.com/wp-content/uploads/2014/08/abc-news-logo.jpg"
       },
       {
+         "id":"cbs_news",
+         "title":"CBS News",
+         "summary":"CBS News",
+         "video_src":" https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+         "image_src":"https://static-www.adweek.com/wp-content/uploads/sites/3/2024/04/cbs-news.jpeg?w=1200"
+      },
+      {
          "id":"nbc_news",
          "title":"NBC News",
          "summary":"NBC News",
