@@ -7,8 +7,15 @@
          "id":"trace",
          "title":"Trace Sports",
          "summary":"Trace Sports Live",
-         "video_src":"https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u88",
+         "video_src":"https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8",
          "image_src":"https://keeplay.net/wp-content/uploads/2023/07/Trace-Sport-Stars-%E9%81%8B%E5%8B%95%E6%98%8E%E6%98%9F%E5%A4%A7%E8%A7%A3%E5%AF%86-%E7%B7%9A%E4%B8%8ALIVE%E8%BD%89%E6%92%AD.png"
+   },
+    {
+         "id":"wofs",
+         "title":"World of Free Sports",
+         "summary":"World of Free Sports",
+         "video_src":"https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8",
+         "image_src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSto_EzKbDTQU1yf_z5l3pR-3aui0BwNuizoQ&s"
    },
    {
          "id":"travel_tv",
