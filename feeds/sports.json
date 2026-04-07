@@ -24,6 +24,27 @@
          "video_src":"https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
          "image_src":"https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/5/1447305_66b604178b19d7efdc584b92_tennischannel_753520.png"
    },
+    {
+         "id":"bahsports1",
+         "title":"Bahrain Sports 1",
+         "summary":"Bahrain Sports 1",
+         "video_src":"https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+         "image_src":"https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/5/1447305_66b604178b19d7efdc584b92_tennischannel_753520.png"
+   },
+    {
+         "id":"bahsports2",
+         "title":"Bahrain Sports 2",
+         "summary":"Bahrain Sports 2",
+         "video_src":"https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+         "image_src":"https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/5/1447305_66b604178b19d7efdc584b92_tennischannel_753520.png"
+   },
+    {
+         "id":"nbcsportsnow",
+         "title":"NBC Sports Now",
+         "summary":"NBC Sports Now",
+         "video_src":"https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
+         "image_src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN01LAd5i2AsEaXAizmYxnUGvcPbWx3atk7g&s"
+   },
    {
          "id":"travel_tv",
          "title":"Travel TV",
@@ -33,3 +54,4 @@
    }
    ]
 }
+
