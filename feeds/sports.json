@@ -44,13 +44,6 @@
          "summary":"NBC Sports Now",
          "video_src":"https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
          "image_src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN01LAd5i2AsEaXAizmYxnUGvcPbWx3atk7g&s"
-   },
-   {
-         "id":"travel_tv",
-         "title":"Travel TV",
-         "summary":"Travel TV Live",
-         "video_src":"https://streamer103.neterra.tv/travel/live.m3u8",
-         "image_src":"https://bx-tv.com/wp-content/uploads/2021/12/travel-tv.jpg"
    }
    ]
 }
