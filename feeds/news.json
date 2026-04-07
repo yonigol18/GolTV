@@ -3,6 +3,13 @@
    "id":"GolTV_News",
    "json_title":"News",
    "entries":[
+       {
+         "id":"keshet_news",
+         "title":"12 חדשות",
+         "summary":"Israel 12 News",
+         "video_src":"http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+         "image_src":"https://img.mako.co.il/2021/02/16/I_txt-v2.jpg"
+      },
       {
          "id":"i24_news",
          "title":"i24 News",
