@@ -11,9 +11,16 @@
          "image_src":"https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6497efb1-94b8-4dbd-9351-ad2f79269e2f/610f1569-28ab-46b5-b6e0-2f715bad06fc/1280x720/match/image.jpg"
       },
       {
+         "id":"cnnintl",
+         "title":"CNN International",
+         "summary":"CNN International",
+         "video_src":"https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+         "image_src":"https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg"
+      },
+      {
          "id":"cnn",
-         "title":"CNN",
-         "summary":"CNN News",
+         "title":"CNN USA",
+         "summary":"CNN News USA",
          "video_src":"https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
          "image_src":"https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg"
       },
