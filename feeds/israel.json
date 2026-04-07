@@ -51,13 +51,6 @@
          "summary":"i24 News",
          "video_src":"https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1767895200~exp=1767898800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=59be9c55159d8b6167ec5d5a7528df6b7bf144a4d8fe71dd486a93e5032f20a2",
          "image_src":"https://i.ytimg.com/vi/ga0Rrn-t8_s/hq720.jpg"
-      },
-      {
-         "id":"arutz_ha_nofesh",
-         "title":"ערוץ הנופש",
-         "summary":"Israel Vacation Channel",
-         "video_src":"https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
-         "image_src":"https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7f5a916948b4bd9a0db18be35ef3d3f/version/4/width/320/height/180/quality/70"
       }
    ]
 }
