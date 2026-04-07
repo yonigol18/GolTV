@@ -14,7 +14,7 @@
          "id":"channel12",
          "title":"12 ערוץ",
          "summary":"Israel 12",
-         "video_src":"https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8",
+         "video_src":"https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700",
          "image_src":"https://img.mako.co.il/2020/03/24/rrrrr_i.jpg"
       },
       {
