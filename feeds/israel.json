@@ -10,17 +10,10 @@
          "video_src":"https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
          "image_src":"https://media3.reshet.tv/image/upload/t_main_large/v1490694764/%D7%AA%D7%90%D7%92%D7%99%D7%93-%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8_sz9mzm.jpg"
       },
-      {
-         "id":"channel12",
-         "title":"12 ערוץ",
-         "summary":"Israel 12",
-         "video_src":"https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700",
-         "image_src":"https://img.mako.co.il/2020/03/24/rrrrr_i.jpg"
-      },
             {
          "id":"channel12dvr",
-         "title":"DVR - 12 ערוץ",
-         "summary":"Israel 12",
+         "title":"12 ערוץ",
+         "summary":"Israel 12 - 4 HR DVR",
          "video_src":"https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700",
          "image_src":"https://img.mako.co.il/2020/03/24/rrrrr_i.jpg"
       },
