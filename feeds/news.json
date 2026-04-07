@@ -32,6 +32,13 @@
          "image_src":"https://variety.com/wp-content/uploads/2014/08/abc-news-logo.jpg"
       },
       {
+         "id":"nbc_news",
+         "title":"NBC News",
+         "summary":"NBC News",
+         "video_src":"https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247",
+         "image_src":"https://m.media-amazon.com/images/I/41PtwoTtFSL.png"
+      },
+      {
          "id":"sky",
          "title":"Sky News Australia",
          "summary":"Sky News Ausralia",
