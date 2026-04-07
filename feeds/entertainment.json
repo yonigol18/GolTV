@@ -17,6 +17,13 @@
          "video_src":"https://c.mjh.nz/abc-tv-plus.m3u8",
          "image_src":"hhttps://i.ytimg.com/vi/lDk0mBtiqx4/maxresdefault.jpg"
    },
+   {
+         "id":"pbs",
+         "title":"PBS Maryland",
+         "summary":"PBS Baltimore, Maryland",
+         "video_src":"https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+         "image_src":"https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/480646059_1037256998431899_772532754273385065_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=nsIP-tJaAeYQ7kNvwHC0TIR&_nc_oc=Adoytq2kr4eLiBj0XOqn9GqWFW4fdRsLgr6ddUCqyo22tFm3fyhv2KylvEwxM-xxWDw&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=ncoUhmLGYKuTB8FoIFj8CQ&_nc_ss=7a389&oh=00_Af12cxwjZngglffBEO5iQPaEewQGpufh9ysUtu4yykcA1A&oe=69DAD8D2"
+   },
       {
          "id":"travel_tv",
          "title":"Travel TV",
