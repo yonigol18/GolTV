@@ -38,13 +38,6 @@
          "video_src":"https://stream-05.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJ_GdHAakyPDol0e9i4Tuwn4VnHViYPrJUKIYXtUyMYS)/dm/3/x7ymw7f/s/live-3.m3u8",
          "image_src":"https://media3.reshet.tv/image/upload/t_og_image/v1697969976/uploads/2023/903764494.jpg"
       },
-      {
-         "id":"keshet_news",
-         "title":"12 חדשות",
-         "summary":"Israel 12 News",
-         "video_src":"http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u",
-         "image_src":"https://img.mako.co.il/2021/02/16/I_txt-v2.jpg"
-      },
      {
          "id":"i24_news",
          "title":"i24 News",
