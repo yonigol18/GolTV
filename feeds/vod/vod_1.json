@@ -1,28 +1,28 @@
 {
    "author":"Juan José",
    "id":"vod_1",
-   "json_title":"VOD_1_Title",
+   "json_title":"The Morning Show",
    "entries":[
       {
-         "id":"vod_1_1",
-         "title":"VOD 1 - Episode 01",
-         "summary":"VOD 01 Summary",
-         "video_src":"https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "id":"morning_1_1",
+         "title":"01 - In the Dark Night of the Soul It's Always 3:30 in the Morning",
+         "summary":"America's favorite morning news show is thrown into crisis when it becomes the news.",
+         "video_src":"https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7259840/2a8181582d5222e604bf/prog_index_ipad.m3u8?hdnea=exp=1579544575~acl=%2F%2A~hmac=d8c60344c1b217763c8eb116aadfc3c244a3e7f49685a45b8bd9230487a9810a",
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/t/the-morning-show/images/unit-photos/photo-02/the_morning_show_JA_sh_p.jpg.photo_modal_show_home_large.jpg"
       },
       {
-         "id":"vod_1_2",
-         "title":"VOD 1 - Episode 02",
-         "summary":"VOD 02 Summary",
-         "video_src":"https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel12.il.m3u8",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "id":"morning_1_2",
+         "title":"02 - A Seat at the Table",
+         "summary":"Alex engages in contract negotiations as she prepares to accepts an award. Bradley is courted for a new opportunity.",
+         "video_src":"https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260674/d22420c26c0ff7278010/prog_index_ipad.m3u8?hdnea=exp=1579992918~acl=%2F%2A~hmac=b887a7f42112028745f24f4b70814ec41c726062da9a8cfc5f19b0e30be5c338",
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/t/the-morning-show/images/unit-photos/photo-15/The_Morning_Show_Unit_Photo_15_sh_p.jpg.photo_modal_show_home_large.jpg"
       },
       {
-         "id":"vod_1_3",
-         "title":"VOD 1 - Episode 03",
-         "summary":"VOD 03 Summary",
-         "video_src":"https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "id":"morning_1_3",
+         "title":"03 - Chaos is the New Cocaine",
+         "summary":"In a weekend of turmoil, TMS scrambles to prepare for its new future.",
+         "video_src":"https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260690/ec49b2264de305edd264/prog_index_ipad.m3u8?hdnea=exp=1579992919~acl=%2F%2A~hmac=c20259a0a3040d5d72b2da531772bb5b386c76420877c63ea5820a8d537f86a3",
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/t/the-morning-show/images/unit-photos/photo-17/The_Morning_Show_Unit_Photo_17_sh_p.jpg.photo_modal_show_home_large.jpg"
       },
       {
          "id":"vod_1_4",
