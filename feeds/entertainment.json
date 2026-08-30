@@ -10,6 +10,13 @@
          "video_src":"https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
          "image_src":"https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7f5a916948b4bd9a0db18be35ef3d3f/version/4/width/320/height/180/quality/70"
       },
+{
+         "id":"nat_geo_wildh",
+         "title":"National Geographic Wild",
+         "summary":"National Geographic Wild",
+         "video_src":"http://198.58.104.90:8989/natgeowild/index.m3u8",
+         "image_src":"https://i.pinimg.com/736x/9b/e9/bd/9be9bd5bf51b885d078c64949bff020f.jpg"
+      },
    {
          "id":"abcfamilyaus",
          "title":"ABC Family",
@@ -38,6 +45,14 @@
          "video_src":"https://streamer103.neterra.tv/travel/live.m3u8",
          "image_src":"https://bx-tv.com/wp-content/uploads/2021/12/travel-tv.jpg"
    },
+
+      {
+         "id":"nbc_lx",
+         "title":"NBC LX Home",
+         "summary":"NBC LX Home",
+         "video_src":"https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8",
+         "image_src":"https://i.ytimg.com/vi/zqIqRbla3Bk/hq720.jpg"
+   },
       {
          "id":"travel_xp",
          "title":"Travel XP",
@@ -51,6 +66,13 @@
          "summary":"Outdoor Channel",
          "video_src":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
          "image_src":"https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/57409e50258033.58cb840c2bbbb.jpg"
+   },
+      {
+         "id":"E",
+         "title":"E!",
+         "summary":"E! Entertainment TV",
+         "video_src":"http://23.237.104.106:8080/USA_E/index.m3u8",
+         "image_src":"https://img.ice.co.il/giflib/news/rsPhoto/sz_182/rsz_615_346_e_870_060218.jpg"
    },
       {
          "id":"mytimemovie",
