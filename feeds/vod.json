@@ -5,10 +5,10 @@
    "entries":[
       {
          "id":"show_1",
-         "title":"Show 1",
-         "summary":"Show tile 1, leading to another JSON with episodes",
+         "title":"The Morning Show",
+         "summary":"America's favorite morning news show is thrown into crisis when it becomes the news.",
          "feed_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/feeds/vod/vod_1.json",
-         "image_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/LogoAssets/TV_SHOW.jpg"
+         "image_src":"https://farm66.staticflickr.com/65535/54735583243_ced1840a47_b.jpg"
    },
            {
          "id":"movie_1",
@@ -19,10 +19,10 @@
    },
            {
          "id":"show_2",
-         "title":"Show 2",
-         "summary":"Show tile 2, leading to another JSON with episodes",
+         "title":"For All Mankind",
+         "summary":"In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
          "feed_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/feeds/vod/vod_2.json",
-         "image_src":"https://raw.githubusercontent.com/yonigol18/GolTV/refs/heads/main/LogoAssets/TV_SHOW.jpg"
+         "image_src":"https://gizmodo.com/app/uploads/2023/10/09b891caa38e599c8e4e974abd807380-1024x577.jpg"
    }
    ]
 }
