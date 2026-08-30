@@ -1,42 +1,45 @@
 {
    "author":"Juan José",
    "id":"vod_2",
-   "json_title":"VOD_2_Title",
+   "json_title":"For ALL Mankind (JSON TITLE)",
    "entries":[
       {
-         "id":"vod_2_1",
-         "title":"VOD 2 - Episode 01",
-         "summary":"VOD 01 Summary",
-         "video_src":"https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "id":"mankind_1_1",
+         "title":"01 - Red Moon",
+         "summary":"NASA is in crisis as the Soviets land the first man on the moon in 1969, the beginning of an alternate history.",
+			"id": "Red Moon",
+         "video_src":"https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260743/d706ed027879e4f7a94f/prog_index_ipad.m3u8?hdnea=exp=1579991558~acl=%2F%2A~hmac=73e51696e80fbe31a41ededef1b2b8ca8c1c08c4e5c47bff3e370ea3336d9379",
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/f/for-all-mankind/images/unit-photos/season-01/episode-01/photo-02/For_All_Mankind_Unit_Photo_02_sh_p.jpg.photo_modal_show_home_large.jpg"
       },
       {
-         "id":"vod_2_2",
-         "title":"VOD 2 - Episode 02",
-         "summary":"VOD 02 Summary",
-         "video_src":"https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel12.il.m3u8",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "id":"mankind_1_2",
+         "title":"02 - He Built the Saturn V",
+         "summary":"Director von Braun opposes President Nixon's directive, with dire consequences.",
+         "video_src":"https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260745/614b8f3a121f36c8b96b/prog_index_ipad.m3u8?hdnea=exp=1579991560~acl=%2F%2A~hmac=475cbe536681b7770d8e28b751645eed091562f0d04fe9cfb27ebe8e826b3199",
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/f/for-all-mankind/images/unit-photos/season-01/episode-01/photo-01/fam_photos1_sh_p.jpg.large.jpg"
       },
       {
-         "id":"vod_2_3",
-         "title":"VOD 2 - Episode 03",
-         "summary":"VOD 03 Summary",
+         "id":"mankind_1_3",
+         "title":"03 - Nixon's Women",
+         "summary":"Deke must recruit female astronauts after Russia lands a woman on the moon.",
+			"id": "03 - Nixon's Women",
          "video_src":"https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/f/for-all-mankind/images/unit-photos/season-01/episode-03/photo-05/For_All_Mankind_Unit_Photo_05_sh_p.jpg.photo_modal_show_home_large.jpg"
       },
       {
-         "id":"vod_2_4",
-         "title":"VOD 2 - Episode 04",
-         "summary":"VOD 04 Summary",
-         "video_src":"https://stream-05.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJ_GdHAakyPDol0e9i4Tuwn4VnHViYPrJUKIYXtUyMYS)/dm/3/x7ymw7f/s/live-3.m3u8",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "id":"mankind_1_4",
+         "title":"04 - Prime Crew",
+         "summary":"A training accident spurs a national debate about women astronauts.",
+			"id": "04 - Prime Crew",
+         "video_src":"https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260746/a5ad45a3832f60d23d4c/prog_index_ipad.m3u8?hdnea=exp=1579991562~acl=%2F%2A~hmac=b4642c10f5f141dc9694078c0f9962ae14a1caa6d0d29cbf01d3d60f239bfe0f",
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/f/for-all-mankind/images/unit-photos/season-01/episode-04/photo-010401/For_All_Mankind_Photo_010401_sh_p.jpg.photo_modal_show_home_large.jpg"
       },
       {
-         "id":"vod_2_5",
-         "title":"VOD 2 - Episode 05",
-         "summary":"VOD 05 Summary",
-         "video_src":"http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u",
-         "image_src":"https://i.ytimg.com/vi/IIqtuupvdWg/maxresdefault.jpg"
+         "id":"mankind_1_5",
+         "title":"05 - Into the Abyss",
+         "summary":"Ed and the crew change Apollo 15's landing site after lunar ice is detected.",
+         "video_src":"https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260751/8a04de794c3de6713892/prog_index_ipad.m3u8?hdnea=exp=1579991564~acl=%2F%2A~hmac=83385269052ef401fe7f0e9b19ce1d16ad29e43bb69106f246133c8e2473b87au",
+         "image_src":"https://www.apple.com/tv-pr/shows-and-films/f/for-all-mankind/images/unit-photos/season-01/episode-05/photo-010501/For_All_Mankind_Photo_010501_sh_p.jpg.photo_modal_show_home_large.jpg"
       },
       {
          "id":"vod_2_6",
