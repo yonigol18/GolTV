@@ -2,52 +2,64 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GolTV Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Stream Selection</title>
     <style>
-        body {
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        html, body {
+            height: 100%;
+            width: 100%;
+            overflow: hidden; /* Prevents scrolling so everything fits on a single screen */
             background-color: white;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 10%;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
         }
         h1 {
             color: blue;
+            margin-bottom: 25px;
+            font-size: 1.8rem;
         }
         .buttons {
-            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            width: 85%;
+            max-width: 320px;
         }
         .buttons a {
             text-decoration: none;
-            margin: 10px;
-            padding: 10px 20px;
+            padding: 18px 10px;
             color: white;
-            background-color: blue;
-            border-radius: 5px;
-            display: inline-block;
+            background-color: #007AFF; /* Modern iOS-friendly blue */
+            border-radius: 12px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.2s, transform 0.1s;
+        }
+        .buttons a:active {
+            transform: scale(0.97);
         }
         .buttons a:hover {
-            background-color: darkblue;
-        }
-        .experiments {
-            display: block;
-            width: calc(100% - 40px);
-            margin: 20px auto;
-            padding: 200px 0;
-            font-size: 2.4em; /* Double the font size */
+            background-color: #0056b3;
         }
     </style>
 </head>
 <body>
-    <h1>GolTV Test</h1>
+    <h1>Select a Stream</h1>
     <div class="buttons">
-        <a href="tv.html">TV</a>
-        <a href="radio.html">Radio</a>
-        <a href="news.html">News</a>
-        <a href="sports.html">Sports</a>
-        <a href="other.html">Other</a>
-        <a href="https://yonigol18.github.io/GolTV/home.html">Experiements</a>
-<! -- class="experiments" -->
+        <a href="https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8">KAN 11</a>
+        <a href="https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8">i24 English</a>
+        <a href="https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=192000&audioId=1&lang=pol&renditions">Reshet Bet</a>
+        <a href="https://n-121-5.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?type=audio&ft=1&id=1&bitrate=192000&idx=202792230">Kol Ha Muzika</a>
     </div>
 </body>
 </html>
