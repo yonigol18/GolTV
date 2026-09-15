@@ -13,7 +13,7 @@
         html, body {
             height: 100%;
             width: 100%;
-            overflow: hidden; /* Prevents scrolling so everything fits on a single screen */
+            overflow: hidden; /* Prevents scrolling so everything stays on a single screen */
             background-color: white;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             display: flex;
@@ -23,26 +23,26 @@
         }
         h1 {
             color: blue;
-            margin-bottom: 25px;
-            font-size: 1.8rem;
+            margin-bottom: 20px;
+            font-size: 2rem;
         }
         .buttons {
             display: flex;
             flex-direction: column;
-            gap: 15px;
-            width: 85%;
-            max-width: 320px;
+            gap: 30px; /* Doubled the spacing between buttons */
+            width: 90%;
+            max-width: 380px;
         }
         .buttons a {
             text-decoration: none;
-            padding: 18px 10px;
+            padding: 26px 15px; /* Significantly increased height via vertical padding */
             color: white;
             background-color: #007AFF; /* Modern iOS-friendly blue */
-            border-radius: 12px;
-            font-size: 1.2rem;
+            border-radius: 14px;
+            font-size: 1.6rem; /* Doubled/enlarged button text */
             font-weight: bold;
             text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
             transition: background-color 0.2s, transform 0.1s;
         }
         .buttons a:active {
@@ -54,12 +54,12 @@
     </style>
 </head>
 <body>
-    <h1>Select a Stream</h1>
+    <h1>CHOOSE A CHANNEL TO PLAY</h1>
     <div class="buttons">
         <a href="https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8">KAN 11</a>
-        <a href="https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8">i24 English</a>
-        <a href="https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=192000&audioId=1&lang=pol&renditions">Reshet Bet</a>
-        <a href="https://n-121-5.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?type=audio&ft=1&id=1&bitrate=192000&idx=202792230">Kol Ha Muzika</a>
+        <a href="https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8">i24 ENGLISH</a>
+        <a href="https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=192000&audioId=1&lang=pol&renditions">RESHET BET</a>
+        <a href="https://n-121-5.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?type=audio&ft=1&id=1&bitrate=192000&idx=202792230">KOL HA MUZIKA</a>
     </div>
 </body>
 </html>
