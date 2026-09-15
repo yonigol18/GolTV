@@ -25,23 +25,27 @@
             color: blue;
             margin-bottom: 20px;
             font-size: 2rem;
+            text-align: center;
         }
         .buttons {
             display: flex;
             flex-direction: column;
-            gap: 30px; /* Doubled the spacing between buttons */
+            gap: 25px; /* Adjusted spacing to accommodate larger tiles on screen */
             width: 90%;
-            max-width: 380px;
+            max-width: 400px;
         }
         .buttons a {
             text-decoration: none;
-            padding: 26px 15px; /* Significantly increased height via vertical padding */
+            padding: 52px 15px; /* Doubled height (vertical padding went from 26px to 52px) */
             color: white;
             background-color: #007AFF; /* Modern iOS-friendly blue */
-            border-radius: 14px;
-            font-size: 1.6rem; /* Doubled/enlarged button text */
+            border-radius: 16px;
+            font-size: 1.8rem; /* Slightly increased text size */
             font-weight: bold;
             text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
             transition: background-color 0.2s, transform 0.1s;
         }
@@ -54,7 +58,7 @@
     </style>
 </head>
 <body>
-    <h1>CHOOSE A CHANNEL TO PLAY</h1>
+    <h1>PLAY CHANNEL</h1>
     <div class="buttons">
         <a href="https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8">KAN 11</a>
         <a href="https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8">i24 ENGLISH</a>
